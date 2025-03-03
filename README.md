@@ -51,7 +51,7 @@ etl/
 │   ├── utils.py             # Вспомогательные функции
 │   └── config.py            # Конфигурация  
 ├── tests                    # Тесты  
-   ├── test_unit                              тока unit-тесты(((())))  
+   ├── test_unit                             
 ├── grafana                    
 ├──  scripts                 # Скрипты для запуска и настройки
    ├── install_dependencies.ps1  # Установка зависимостей
