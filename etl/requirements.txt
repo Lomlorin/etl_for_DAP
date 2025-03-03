@@ -1,0 +1,3 @@
+psycopg2-binary==2.9.9  # Для работы с PostgreSQL
+gspread==5.12.2         # Для работы с Google Sheets
+oauth2client==4.1.3     # Для аутентификации в Google API
